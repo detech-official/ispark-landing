@@ -1,4 +1,4 @@
-# DeTech iSpark Server App
+# DeTech iSpark Landing Page
 *ispark.io*
 
 For someone visiting the site. Suggest to go to our website.
