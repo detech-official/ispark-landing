@@ -1,4 +1,4 @@
-# iSpark Landing Page
+# iSpark
 *ispark.io*
 
 For someone visiting the site. Suggest to go to our website.
